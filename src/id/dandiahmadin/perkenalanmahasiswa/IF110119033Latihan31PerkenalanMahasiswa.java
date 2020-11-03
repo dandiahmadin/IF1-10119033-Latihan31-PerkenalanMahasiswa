@@ -11,7 +11,7 @@ package id.dandiahmadin.perkenalanmahasiswa;
  * NAMA     : Dandi Ahmadin
  * KELAS    : IF-1
  * NIM      : 10119033
- * Deskripsi Program : Program ini berisi perkenalan mahasiswa dengan pendekatan menggunakan objek
+ * Deskripsi Program : Program ini berisi perkenalan mahasiswa dengan konsep pendekatan berbasis objek
  */
 
 public class IF110119033Latihan31PerkenalanMahasiswa {
